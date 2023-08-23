@@ -1,0 +1,19 @@
+Merge Conflict Resolution:
+In Step E of the guide, a merge conflict was encountered when attempting to merge the readme branch into the main branch. To resolve the 
+conflict, the following steps were taken:
+
+Used the vi text editor to open the conflicting README.md file in the main branch.
+Reviewed the conflicting sections (indicated by <<<<<<< HEAD and >>>>>>> readme markers) and made the necessary edits to fix the conflict.
+Specifically, corrected the student ID and kept the git version line as desired.
+When I did this I was corrected with an error from not pulling the latest changes from the remote repository into my local branch before 
+pushing.
+Saved the changes and exited the vi interface by typing :wq and pressing Enter.
+Committed the resolution with the command: git commit -m "Comment on how you fixed the merge conflict.".
+Then I pushesd the correct README.md file merge for the main and readme branches.
+
+Three Changes Made in Part C:
+In Step C, three changes were made to different files. The changes were performed as follows:
+
+Opened an HTML file in Visual Studio Code and added a comment <!-- Comment example --> to the file. I used Git commands to stage and commit the 
+changes for each file. Then I ran git status to check the modified file (e.g., filename.html). Staged the changes with git add filename.html. 
+Committed the changes with a descriptive message using git commit -m "A comment describing the changes made.".

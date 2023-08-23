@@ -1,0 +1,229 @@
+commit fb1abf5887438a075ed3bf7b11f8470c96ed4699
+Merge: cd9ed59 56b7161
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 16:47:23 2023 -0700
+
+    Comment on how you fixed the merge conflict.
+
+commit cd9ed59610942f63a6baf7237fa151bcd16dc7b0
+Merge: 9f60d6d 1db49c4
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 16:41:23 2023 -0700
+
+    Comment on how you fixed the merge conflict.
+
+commit 56b7161ed98b2649a8a5503a52fab13261f3a0c9
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 16:26:02 2023 -0700
+
+    updat README.MD
+
+commit e5621100c688db3931f28f30fc02be8c71b75537
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 16:14:39 2023 -0700
+
+    readme branch of README.md file
+
+commit 9f60d6d67300025170a09ad5cf291d6cf6a84570
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 16:02:32 2023 -0700
+
+    Edit To README.md on main/master branch
+
+commit 889cddb7865a439eb0183d1236489bc7517eeb6c
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Tue Aug 22 21:16:22 2023 +0000
+
+    Update README.md
+
+commit 1db49c43a3626062fd52c446587e8a427922c9fc
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Tue Aug 22 11:28:37 2023 -0700
+
+    Updated READ.md file
+
+commit 11e6a0490d3dd2cce315ea80d0fb5c3dacbbb47d
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Mon Aug 21 22:18:44 2023 -0700
+
+    A comment describing the changes made.
+
+commit b0057b4167f2567823fcd9c30d995cf496c4319a
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Mon Aug 21 22:18:12 2023 -0700
+
+    A comment describing the changes made.
+
+commit ffb760b3eba703641f44d0ef833ad66f08cb0ba5
+Author: JONATHANJ64 <126198122+JONATHANJ64@users.noreply.github.com>
+Date:   Mon Aug 21 22:15:10 2023 -0700
+
+    A comment describing the changes made.
+
+commit b0bef1e5a30791f0f311ce3c0afaf65de5785cd9
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:42:33 2023 +0000
+
+    Upload New File
+
+commit 514ee480f26669c52ac27b3c733b21d4db485869
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:42:25 2023 +0000
+
+    Add new directory
+
+commit 5eb5b1553e985c00b3c3fd4462dcf437e58fbf0d
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:41:38 2023 +0000
+
+    Upload New File
+
+commit 1b7c1fe4954c089b0232a2151ef8588ae3c86fea
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:41:33 2023 +0000
+
+    Upload New File
+
+commit 0207716d5b65cec878ee0ee088b6bda842868bcf
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:41:28 2023 +0000
+
+    Upload New File
+
+commit 30f218f0ca371d6f92513bebc9553e641073bdce
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:41:25 2023 +0000
+
+    Upload New File
+
+commit 91e0a3d368394fe91443a40363f915ff81e19715
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:41:21 2023 +0000
+
+    Upload New File
+
+commit d54844232a6357fd5643e379f8fcba92a0702407
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:40:27 2023 +0000
+
+    Upload New File
+
+commit 58a583eebef16391d0b8138223393da8bf57e481
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:40:24 2023 +0000
+
+    Upload New File
+
+commit bf2c90d88fb1ec3daee13316707ec4fa50ab8308
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:40:20 2023 +0000
+
+    Upload New File
+
+commit 6014f8fa523ea52028139bd766525b629f649072
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:40:10 2023 +0000
+
+    Upload New File
+
+commit b8dc901d29f6cc9821003a58029a83c02933f000
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:40:05 2023 +0000
+
+    Upload New File
+
+commit cf58c0e6336eb0570b1b595ba610db33f365ff5f
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:39:09 2023 +0000
+
+    Upload New File
+
+commit 29b20dba2d7ada68add54de832958e913c0ce4bf
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:38:46 2023 +0000
+
+    Add new directory
+
+commit 706910a9871ceebedd914e404d21171aed2e8d97
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:38:22 2023 +0000
+
+    Delete style.css
+
+commit 55df40744acf9bd8bbb6bb45fdc5ba6e0baa7360
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:38:10 2023 +0000
+
+    Upload New File
+
+commit 861cbb1757d02fc8bde96e36351b66a1c580a99f
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:37:54 2023 +0000
+
+    Add new directory
+
+commit 58a20704e95bcee971dc106bedba8b7d16d22042
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:37:45 2023 +0000
+
+    Delete css
+
+commit e6004c562c1c7e251b221f5db1c954a3307a57f9
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:30:32 2023 +0000
+
+    Upload New File
+
+commit 7fd2201b7a03259bd8d5d202392baf315d8abe35
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:28:48 2023 +0000
+
+    Upload New File
+
+commit 365dba81554f85ca57410317231a1a26edfac7d4
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:28:31 2023 +0000
+
+    Upload New File
+
+commit dbcf2a03618b28253df84a2cce1be4014cf9e909
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:28:16 2023 +0000
+
+    Upload New File
+
+commit 3b2e554f185189bd05ed745eda957678d8b00e76
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:28:05 2023 +0000
+
+    Upload New File
+
+commit b143630e50a7532346251fbb80a268f2c204b4ee
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:27:49 2023 +0000
+
+    Upload New File
+
+commit 0751d541e1eb708cebdd930d10be3a5ba4102b4c
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:27:38 2023 +0000
+
+    Upload New File
+
+commit 60b793f929ead95e9596cea0330e06d56a646f64
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:27:10 2023 +0000
+
+    Upload New File
+
+commit 46390b4889fe4f7fce5d979155ce32bfa0c2f40b
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 18:26:28 2023 +0000
+
+    Upload New File
+
+commit 3ee6eda3829009c225efe1fb5e15ae394ccec5d0
+Author: Jonathan Johnson <johnson.jonathan.us@gmail.com>
+Date:   Mon Aug 21 14:43:00 2023 +0000
+
+    Initial commit
